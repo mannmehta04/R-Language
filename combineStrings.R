@@ -1,0 +1,1 @@
+print(paste(data1 = readline("Enter Data 1: "), data2= readline("Enter Data 2: "), sep = ", "))

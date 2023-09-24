@@ -1,0 +1,1 @@
+cat("Length of String ", string = readline("Enter String to get it's length; "), " is ", nchar(string))
